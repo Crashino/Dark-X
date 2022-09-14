@@ -1,2 +1,3 @@
 # Dark-X
-My Roblox Exploit.Enjoy It!
+Dark X is a free roblox executor created by me,you can inject,execute scripts,clear the text,open,and save files. With a script list and a script hub!
+Script Hub ONLY Pastebin!
